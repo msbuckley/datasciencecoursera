@@ -2,6 +2,7 @@ README
 ========================================================
 
 ### Introduction
+This project contains a script that produces a tidied data set from a collection of files that represent data collected from the accelerometers from the Samsung Galaxy S smartphone. Along with the script is a CodeBook that summarizes the steps in the script and the features of the tidied dataset produced by the script.
 
 ### Running the script
 
