@@ -1,5 +1,3 @@
-#setwd('/Users/msb/Documents/courses/Coursera/Data Track/3 - Getting and Cleaning Data/Week 3/Assignments/UCI HAR Dataset')
-
 # NOTE: The following code assumes the data is located in the working directory
 
 # Load feature and activity lists 
